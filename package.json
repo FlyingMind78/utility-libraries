@@ -1,0 +1,22 @@
+{
+  "name": "indexdb-crud-operations",
+  "version": "1.0.0",
+  "description": "Provides utility function for performing CRUD operations on IndexDB in a web browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyingMind78/utility-libraries.git"
+  },
+  "keywords": [
+    "indexDB"
+  ],
+  "author": "Maibam Maneesana Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyingMind78/utility-libraries/issues"
+  },
+  "homepage": "https://github.com/FlyingMind78/utility-libraries#readme"
+}
